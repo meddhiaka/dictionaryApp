@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dict-app/static/css/main.265b3d7b.css",
+    "main.js": "/dict-app/static/js/main.cf82f14a.js",
+    "index.html": "/dict-app/index.html",
+    "main.265b3d7b.css.map": "/dict-app/static/css/main.265b3d7b.css.map",
+    "main.cf82f14a.js.map": "/dict-app/static/js/main.cf82f14a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.265b3d7b.css",
+    "static/js/main.cf82f14a.js"
+  ]
+}
