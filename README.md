@@ -15,7 +15,8 @@ This Project is created using `create-react-app`
 
 # Live Demo
 
-### Soon ...
+
+[meddhiaka.github.io/dict-app](https://meddhiaka.github.io/dict-app)
 
 <br><br>
 
