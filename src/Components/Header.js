@@ -24,9 +24,9 @@ export default function Header() {
     }
 
     return (
-        <div className="bg-purple-600 font-poppins">
+        <div className="bg-purple-600">
             <div className="container mx-auto py-8">
-                <h1 className="text-4xl font-bold text-center text-white font-poppins">A Dictionary</h1>
+                <h1 className="text-4xl font-bold text-center text-white">A Dictionary</h1>
                 <p className="text-center mt-1 mb-10 text-slate-300 text-lg">Find definitions for words</p>
                 <div className="flex items-center justify-center mt-5 ">
                     <div className="flex border-4 border-gray-200 rounded">
