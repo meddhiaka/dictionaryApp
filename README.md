@@ -1,8 +1,23 @@
-# Getting Started with Create React App
+# Dict App with React.Js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dict App is a little website built with React.js, Tailwindcss for the UI and Fetch API using modern asynchronous JavaScript.
 
-## Available Scripts
+This Project is created using `create-react-app`
+
+<br><br>
+
+# Quickview
+
+<div align="center" ><img src="https://raw.githubusercontent.com/meddhiaka/dictionaryApp/main/src/Intro.gif?token=GHSAT0AAAAAAB4S54GWIWHKQ5LZ3TC6IATOY5CTWZA" width="400"></div>
+
+
+<br><br>
+
+# Live Demo
+
+### Soon ...
+
+# Scripts
 
 In the project directory, you can run:
 
@@ -39,32 +54,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<br><br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Contributing 🤝
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions, issues, and feature requests are welcome!
 
-### Code Splitting
+Feel free to check the [issues page](https://github.com/meddhiaka/dictionaryApp/issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br><br>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# License 📝
 
-### Making a Progressive Web App
+This project is [MIT](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) licensed.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>
+<br>
+<hr>
+<div align="center"><h2>Give us a ⭐️ if you liked this project!</h2></div>
