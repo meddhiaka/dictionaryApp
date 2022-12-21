@@ -1,6 +1,6 @@
 # Dict App with React.Js
 
-Dict App is a little website built with React.js, Tailwindcss for the UI and Fetch API using modern asynchronous JavaScript.
+Dict App is a Little app built with `React.js`, `Tailwindcss` for the UI and Fetch API using modern asynchronous JavaScript.
 
 This Project is created using `create-react-app`
 
