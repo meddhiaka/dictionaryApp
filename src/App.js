@@ -1,7 +1,23 @@
+import Header from './Components/Header'
+import Result from './Components/Result'
+import { createContext, useState } from 'react'
+
+export const InputContext = createContext()
+
+
 export default function App() {
+
+  const [inputValue, setInputValue ] = useState("")
+  const value = { 
+    inputValue, setInputValue
+  }
+  console.log(inputValue)
   return (
-    <div className="App">
-      <p className='text-red-500 text-3xl'>hello world</p>
-    </div>
-  );
+    <InputContext.Provider value={value}>
+      <div className="App">
+        <Header />
+        <Result />
+      </div>
+    </InputContext.Provider>
+  )
 }
